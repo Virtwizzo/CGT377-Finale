@@ -1,0 +1,12 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+ElementSpacing = 0.5 0.5 0.5
+DimSize = 256 256 256
+AnatomicalOrientation = ???
+ElementType = MET_UCHAR
+ElementDataFile = bonsai_256x256x256_uint8.raw

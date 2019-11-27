@@ -1,0 +1,12 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+ElementSpacing = 0.5 0.5 0.5
+DimSize = 64 64 64
+AnatomicalOrientation = ???
+ElementType = MET_UCHAR
+ElementDataFile = fuel_64x64x64_uint8.raw
